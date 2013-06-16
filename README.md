@@ -14,7 +14,7 @@ I wrote tWeekPic in november of 2011. I was on "holiday" and spending a lot of t
 
 tWeekPic was built in less than a week. I just had some issue with the UX  where I wanted the page to be self-contained, and had to use a form that would send a file without reloading the page. To achieve this, I used [valums](https://github.com/valums)'s [file-uploader](https://github.com/valums/file-uploader) javascript library.
 
-Some time later, I forgot to renew the hosting where this app was hosted and decided to end the experiment there.
+Some months later, I forgot to renew the hosting where this app was hosted and decided to end the experiment there.
 
 ## How stuff works ##
 - Connect with tWeekPic using OAuth.
