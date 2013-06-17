@@ -16,6 +16,10 @@ tWeekPic was built in less than a week. I just had some issue with the UX  where
 
 Some months later, I forgot to renew the hosting where this app was hosted and decided to end the experiment there.
 
+## It kinda looked like this ##
+![This is a screenshot taken by a tWeekPic logged user](./tWeekPic-demo.png?raw=true "This is a screenshot taken by a tWeekPic logged user")
+(Screenshot courtesy of [Ballajack](http://www.ballajack.com/avatar-twitter-jour-semaine))
+
 ## How stuff works ##
 - Connect with tWeekPic using OAuth.
 - Save user OAuth information in a MySQL database.
